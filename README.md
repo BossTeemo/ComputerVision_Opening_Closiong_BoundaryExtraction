@@ -1,8 +1,5 @@
 # ComputerVision_Opening_Closiong_BoundaryExtraction
 ---
-
-# Computer Vision: Morphological Operations
-
 이 프로젝트는 이미지 처리 분야에서의 모폴로지 연산인 Opening, Closing 및 Boundary Extraction을 구현한 프로그램입니다.
 
 ## 기능
@@ -29,8 +26,6 @@
 문제가 발생하거나 질문이 있을 경우 [GitHub Issue](https://github.com/BossTeemo/ComputerVision_Opening_Closing_BoundaryExtraction/issues)를 통해 문의해 주세요.
 
 ---
-
-# Computer Vision: Morphological Operations
 
 This project implements the morphological operations, Opening, Closing, and Boundary Extraction, used in image processing.
 
